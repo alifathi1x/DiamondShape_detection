@@ -5,6 +5,11 @@ A powerful and accurate machine learning system for classifying diamond shapes f
 
 🚀 Overview
 This project implements a sophisticated diamond shape classification system that can accurately identify various diamond cuts and shapes from images with 96% accuracy. The system uses computer vision and machine learning techniques to analyze diamond images and predict their shape characteristics.
+<img width="1366" height="768" alt="Screenshot (38)" src="https://github.com/user-attachments/assets/98cf9ad0-fd55-460c-b5cf-89f10cddb4b4" />
+<img width="1366" height="768" alt="Screenshot (39)" src="https://github.com/user-attachments/assets/c8b96ccb-a37b-4e09-be56-ecb3d20ab491" />
+<img width="1366" height="768" alt="Screenshot (37)" src="https://github.com/user-attachments/assets/6eb3affc-0c35-4c63-b5c0-10d6e651da92" />
+
+
 
 📊 Model Performance
 Accuracy: 96%
